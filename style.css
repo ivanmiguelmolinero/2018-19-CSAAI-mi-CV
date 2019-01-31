@@ -4,9 +4,10 @@ body {
   .Apartado {
     text-align: center;
     background-position: center;
-    color: MintCream; 
+    color: MintCream;
   }
  .Información {
+   text-align: center;
    background-color: darkred;
    color: lavender;
  }
