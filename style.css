@@ -1,3 +1,12 @@
 body {
-  ba
+  background-image: url("fondosw.gif");
 }
+  .Apartado {
+    text-align: center;
+    background-position: center;
+    color: MintCream; 
+  }
+ .Información {
+   background-color: darkred;
+   color: lavender;
+ }
