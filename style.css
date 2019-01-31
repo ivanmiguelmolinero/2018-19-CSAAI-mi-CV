@@ -1,9 +1,12 @@
 body {
-  background-image: url("fondosw.gif");
+  background-image: url("fondosw1.gif");
+  background-position: center;
+  background-repeat: no-repeat;
 }
   .foto {
     width: 100px;
     margin-left: 115px;
+
   }
   .título {
     text-align: center;
@@ -18,14 +21,14 @@ body {
     border-right-color: black;
     border-top-color: midnightblue;
     border-bottom-color: midnightblue;
-    margin-left: 30px;
-    margin-right: 30px;
+    margin-left: 400px;
+    margin-right: 400px;
   }
   .Apartado {
     text-align: center;
     border-bottom-style: double;
-    margin-left: 30px;
-    margin-right: 30px;
+    margin-left: 400px;
+    margin-right: 400px;
     background-color: Turquoise;
     color: MintCream;
   }
@@ -40,8 +43,8 @@ body {
    border-right-color: lightblue;
    border-top-color: darkslategray;
    border-bottom-color: darkslategray;
-   margin-left: 30px;
-   margin-right: 30px;
+   margin-left: 400px;
+   margin-right: 400px;
    color: moccasin;
  }
   a {
@@ -51,11 +54,11 @@ body {
      width: 40px;
      height: 20px;
    }
-    .fotogmail {
+  .fotogmail {
       width: 25px;
       height: 25px;
-    }
-      .logourjc {
+  }
+  .logourjc {
         width: 25px;
         height: 25px;
-      }
+  }
