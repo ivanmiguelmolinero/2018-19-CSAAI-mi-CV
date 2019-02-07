@@ -22,14 +22,14 @@ body {
     border-right-color: black;
     border-top-color: midnightblue;
     border-bottom-color: midnightblue;
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 400px;
+    margin-right: 400px;
   }
   .Apartado {
     text-align: center;
     border-bottom-style: double;
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 400px;
+    margin-right: 400px;
     background-color: Turquoise;
     color: MintCream;
   }
@@ -44,8 +44,8 @@ body {
    border-top-color: darkslategray;
    border-bottom-color: darkslategray;
    border-width: 4px;
-   margin-left: 200px;
-   margin-right: 200px;
+   margin-left: 400px;
+   margin-right: 400px;
    color: moccasin;
  }
   a {
