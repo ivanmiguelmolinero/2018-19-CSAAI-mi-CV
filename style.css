@@ -11,7 +11,6 @@ body {
   }
   .título {
     text-align: center;
-    font-family: fantasy;
     font-style: oblique;
     background-color: white;
     border-left-style: outset;
@@ -22,19 +21,23 @@ body {
     border-right-color: black;
     border-top-color: midnightblue;
     border-bottom-color: midnightblue;
-    margin-left: 400px;
-    margin-right: 400px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 15px;
+    font-size: xx-large;
   }
   .Apartado {
+    font-family: "Allerta Stencil", Sans-serif;
     text-align: center;
     border-bottom-style: double;
-    margin-left: 400px;
-    margin-right: 400px;
+    margin-left: 100px;
+    margin-right: 100px;
     background-color: Turquoise;
     color: MintCream;
+    font-size: x-large;
   }
  .Información {
-   background-color: maroon;
+   background-color:maroon;
    border-left-style: dashed;
    border-right-style: dashed;
    border-top-style: ridge;
@@ -44,16 +47,17 @@ body {
    border-top-color: darkslategray;
    border-bottom-color: darkslategray;
    border-width: 4px;
-   margin-left: 400px;
-   margin-right: 400px;
+   margin-left: 100px;
+   margin-right: 100px;
    color: moccasin;
+   padding: 0px;
  }
   a {
     color: lightblue;
   }
   .fotodeperfil {
     position: absolute;
-    right: 450px;
+    right: 150px;
     width: 144px;
     border-style: outset;
     border-color: aqua;
